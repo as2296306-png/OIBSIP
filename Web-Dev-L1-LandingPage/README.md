@@ -20,4 +20,4 @@ Yeh project Oasis Infobyte internship ke antargat banaya gaya ek responsive land
 2. `index.html` file ko apne kisi bhi web browser me open karein.
 
 ### Author
-Bhavesh Sharma
+Ankit Saini
