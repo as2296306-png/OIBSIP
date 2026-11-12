@@ -19,4 +19,4 @@ Yeh project Oasis Infobyte internship ke antargat banaya gaya ek personal portfo
 2. `index.html` file ko browser me open karke portfolio dekhein.
 
 ### Author
-Bhavesh Sharma
+Ankit Saini
