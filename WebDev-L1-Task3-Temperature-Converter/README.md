@@ -20,4 +20,4 @@ Yeh project Oasis Infobyte internship ke antargat banaya gaya ek Temperature Con
 2. `temp_converter.html` file ko apne browser me open karke app use karein.
 
 ### Author
-Bhavesh Sharma
+Ankit Saini
